@@ -8,3 +8,4 @@
 - [2026-11-02 Bandit 3–6](2026-11-02-bandit-3-6.md)
 - [2026-11-03 Python 判断循环 + Linux 管道](2026-11-03-python-linux-bandit.md)
 - [2026-11-04 Linux 进程管理 + Bandit 10–12](2026-11-04-linux-process-bandit-10-12.md)
+- [2026-11-05 Python 函数 + vim + Bandit 13–15](2026-11-05-python-functions-vim-bandit-13-15.md)
